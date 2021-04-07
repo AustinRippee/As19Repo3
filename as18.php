@@ -4,6 +4,10 @@ echo "<a target='_blank' href='https://github.com/AustinRippee/api.git'>GitHub r
 
 main();
 
+function repo3repo(){
+    echo "hello world for the third time";
+}
+
 function main () {
 	
 	$apiCall = 'https://api.covid19api.com/summary';
